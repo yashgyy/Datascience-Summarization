@@ -1,4 +1,4 @@
-# datascience-summarization
+# Datascience Summarization
 
 **The Packages that was used for this project were**
 * Plyr
@@ -11,4 +11,4 @@
 > * Using A regular expression i indexed the column where there is mention of std and mean and stored in the variable
 > * I filtered out the column using the above variable along with activity columnn
 > * I remapped the observation activity names to make it more descriptive using the plyr revalue function
-> * Lastly i grouped the datset and summarized to produce the final Dataset
+> * Lastly Igrouped the datset and summarized to produce the final Dataset
